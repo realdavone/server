@@ -2,19 +2,23 @@
   "items":[
     {
       "id": 0,
-      "name": "Shirt"
+      "name": "Shirt",
+      "price_in_euro": "19.99"
     },
     {
       "id": 1,
-      "name": "Trousers"
+      "name": "Trousers",
+      "price_in_euro": "16.99"
     },
     {
       "id": 2,
-      "name": "Hat"
+      "name": "Hat",
+      "price_in_euro": "9.99"
     },
     {
       "id": 3,
-      "name": "Shoes"
+      "name": "Shoes",
+      "price_in_euro": "29.99"
     }
   ],
   "users":[
